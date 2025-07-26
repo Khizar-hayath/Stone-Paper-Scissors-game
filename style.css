@@ -1,0 +1,43 @@
+body{
+        background-color: rgb(26, 26, 26);
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: 20px;
+      }
+      .heading{
+        font-size: 30px;
+        font-weight: 700;
+      }
+      .move-icon{
+        height: 50px;
+      }
+      .move-button{
+        background-color: transparent;
+        border: 3px solid white;
+        border-radius: 90px;
+        margin-right: 10px;
+        width: 120px;
+        height: 120px;
+        cursor: pointer;
+      }
+      .result{
+        font-size: 25px;
+        font-weight: 700;
+        margin-top: 50px;
+        margin-bottom: 30px;
+      }
+      .score{
+        margin-top: 60px;
+        font-size: 16px;
+      }
+      .reset-score{
+        border: none;
+        padding: 10px;
+        font-size: 16px;
+        font-weight: 600;
+        cursor: pointer;
+        border-radius: 10px;
+      }
+      .moves{
+        font-size: 16px;
+      }
